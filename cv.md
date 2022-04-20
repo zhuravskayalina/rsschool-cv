@@ -1,8 +1,11 @@
  # **Zhuravskaya Angelina**
 ---
-_e-mail: zhuravskayalina@gmail.com_
 
-_tg: chateaudeangie_
+**Contacts:**
+
+_e-mail:_ zhuravskayalina@gmail.com
+
+_tg:_ @chateaudeangie
 
 ---
 **About me:**
