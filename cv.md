@@ -40,7 +40,7 @@ During my trainig i solved a lot of tasks using:
 ---
 **My projects:**
 
-Here you can see my "Mario" game project code: [Mario code](https://github.com/zhuravskayalina/mario)
+Here you can see my "Mario" game project code: [Mario Сode](https://github.com/zhuravskayalina/mario)
 
 And the game: [Mario Game](https://zhuravskayalina.github.io/mario/#start)
 
