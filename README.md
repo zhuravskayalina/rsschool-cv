@@ -1,1 +1,1 @@
-Git practise
+[Angelina Zhuravskaya GitHub progile](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
