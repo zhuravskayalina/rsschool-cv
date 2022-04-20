@@ -11,9 +11,6 @@ I am learning javascript on my own and also taking Rolling Scopes courses now. F
 
 My aim is to understand the JavaScript on a really good level to make my own intresting projects.
 
-
-
-    
 ---
 
 **My skills:**
