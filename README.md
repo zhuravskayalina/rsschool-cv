@@ -1,1 +1,1 @@
-[Angelina Zhuravskaya GitHub progile](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[Angelina Zhuravskaya Github profile](https://zhuravskayalina.github.io/rsschool-cv/cv)
