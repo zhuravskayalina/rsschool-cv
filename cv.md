@@ -19,6 +19,7 @@ My aim is to understand the JavaScript on a really good level to make my own int
 - HTML & CSS 
 - Native JavaScript
 - Basic usage of Git Version Control System
+- ES6 syntax
 
 ---
 
