@@ -7,17 +7,17 @@
 
 ___
 
-CONTACTS:
+## CONTACTS:
 
-e-mail: zhurauskaa.anhelina@gmail.com
-telegram: @anhelinazhurauskaya
-discord (rs-school): Angelina Zhur (@zhuravskayalina)
-LinkedIn:
-CodeWars:
+* **e-mail:** zhurauskaa.anhelina@gmail.com
+* **telegram**: @anhelinazhurauskaya
+* **discord:** (rs-school): Angelina Zhur (@zhuravskayalina)
+* **LinkedIn:**[check](https://www.linkedin.com/in/anhelinazhuravskaya)
+* **CodeWars:**[check](https://www.codewars.com/users/zhuravskayalina)
 
 ---
 
-ABOUT ME:
+## ABOUT ME:
 
 I have 2 completed Frond-End Development courses, a lot of self-study and interest. 
 
@@ -32,7 +32,7 @@ Previously, I realized myself as:
 
 ---
 
-SKILLS:
+## SKILLS:
 
 - Computer Science
 - HTML5 & CSS3 
@@ -45,9 +45,9 @@ SKILLS:
 
 ---
 
-CODE EXAMPLE:
+## CODE EXAMPLE:
 
-
+```
 function moveZeros(array) {
   let counter = 0;
   const newArray = [];
@@ -63,20 +63,21 @@ function moveZeros(array) {
 
  return [...newArray, ...zeros];
 }
+```
 
 ---
-PROJECTS:
+##PROJECTS:
 
-Mario game
+* ### Mario game
 
     This is fully-functional Mario-type side-scroller game with HTML5 canvas and JavaScript. Graduation project from "Web application development with JS" courses.
 
-    code / link
+    [Check code](https://github.com/zhuravskayalina/mario/tree/main/src)  ||   [Play Game](https://zhuravskayalina.github.io/mario/#start)
 
 
 ---
 
-EDUCATION:
+## EDUCATION:
 - IT academy "Web application development with JavaScript", 108 hours (Minsk, 2022);
 - IT academy "Web-site development with HTML, CSS and JavaScript", 116 hours (Minsk, 2021);
 - HTML Academy "Free Frontend" courses (Minsk, 2021);
@@ -84,7 +85,7 @@ EDUCATION:
 
 ---
 
-LANGUAGES:
+## LANGUAGES:
 
 Russian, Belarusian: native
 
@@ -93,5 +94,3 @@ speaking: B1,
 writing: B2
 
 I used to work with international guests for 5 years so I have a speaking experience.
-
-git
