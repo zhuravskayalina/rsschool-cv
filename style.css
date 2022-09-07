@@ -156,3 +156,70 @@
     transform: rotate(45deg);
 }
 
+
+.project-link {
+    padding: 10px;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-decoration: none;
+    margin: 10px;
+    display: block;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    font-size: 20px;
+    
+}
+
+.project-link:hover {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
+
+.projects-section {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project-name {
+    font-family: 'Inconsolata', monospace;
+    font-size: 40px;
+}
+
+.project-description {
+    margin: 30px 0;
+}
+
+.project-item {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    justify-items: end;
+}
+
+.project-item:first-child {
+    margin-bottom: 60px;
+}
+
+.project-description p {
+    margin-top: 10px;
+}
+
+.mario-img {
+    background: no-repeat url("assets/mario.png");    
+}
+
+.tasks-img {
+    background: no-repeat url("assets/tasks.png");
+}
+
+.project-img {
+    width: 400px;
+    background-size: contain;
+}
