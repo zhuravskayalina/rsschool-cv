@@ -10,6 +10,10 @@
 
 }
 
+a {
+    color: black;
+}
+
 .container {
     --red: #ea1f22;
     max-width: 1100px;
@@ -222,4 +226,12 @@
 .project-img {
     width: 400px;
     background-size: contain;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.education-list {
+    list-style: none;
 }
