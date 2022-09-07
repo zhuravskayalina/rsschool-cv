@@ -26,9 +26,9 @@ I'm result oriented and attentive person, razer responsive and responsible. I ha
 I respect views and values of other people and do not tolerate discrimination. Important things for me are healthy communication, an engaged team and an opportunity to develop my skills. I am not indifferent to the quality of the product. I would like to be a part of a company where everyone is focused on a really cool result.
 
 Previously, I realized myself as:
-* Professional photographer
-* Bartender
-* Barista
+* Professional photographer (6 years experience)
+* Bartender (3 years experience)
+* Barista (3 years experience)
 
 I did a lot of self-learning and got really inspired by the process of creating new products and communicating with different specialists. That experience taught me a lot and helped to develop my skills.
 ---
