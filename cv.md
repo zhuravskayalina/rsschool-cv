@@ -31,6 +31,7 @@ Previously, I realized myself as:
 * Barista (3 years experience)
 
 I did a lot of self-learning and got really inspired by the process of creating new products and communicating with different specialists. That experience taught me a lot and helped to develop my skills.
+
 ---
 
 ## SKILLS:
