@@ -15,6 +15,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border: 1px solid black;
 }
 
 .name {
@@ -33,12 +34,25 @@
 .nav-item {
     cursor: pointer;
     padding-bottom: 3px;
-    border-bottom: 0 solid black;
+    border-bottom: 4px solid transparent;
+    text-decoration: none;
+    color: black;
 }
 
 .nav-item:hover {
-    text-decoration: none;
-    -webkit-transition: border-bottom .1s linear;
-    transition: border-bottom .1s linear;
+    border-bottom: 4px solid black;
+    transition: border-bottom .5s linear;
+}
 
+.main {
+    border: 1px solid black;
+    margin-top: 60px;
+}
+
+.about-section {
+    margin-top: 60px;
+}
+
+.photo {
+    width: 200px;
 }
