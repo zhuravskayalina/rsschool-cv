@@ -235,3 +235,9 @@ a {
 .education-list {
     list-style: none;
 }
+
+.prev-experience-list {
+    list-style: none;
+    padding-left: 20px;
+    margin: 20px 0;
+}
