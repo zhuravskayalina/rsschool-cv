@@ -44,3 +44,23 @@ SKILLS:
 - WebStorm, VS Code
 
 ---
+
+CODE EXAMPLE:
+
+
+function moveZeros(array) {
+  let counter = 0;
+  const newArray = [];
+  const zeros = [];
+
+  for (let i = 0; i < array.length; i++) {
+    if (array[i] === 0) {
+      zeros.push(array[i]);
+    } else {
+      newArray.push(array[i])
+    };
+  };
+
+ return [...newArray, ...zeros];
+}
+
