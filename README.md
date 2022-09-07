@@ -1,3 +1,3 @@
 # Zhuravskaya Angelina CV
 
-https://zhuravskayalina.github.io/rsschool-cv/
+https://zhuravskayalina.github.io/rsschool-cv
