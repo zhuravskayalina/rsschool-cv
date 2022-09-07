@@ -1,5 +1,5 @@
 # ANGELINA ZHURAVSKAYA
- 
+
  Front-End Developer
 ---
 
@@ -9,7 +9,7 @@ ___
 
 ## CONTACTS:
 
-* **e-mail:** zhurauskaa.anhelina@gmail.com
+* **e-mail:** zhurauskaya.anhelina@gmail.com
 * **telegram**: @anhelinazhurauskaya
 * **discord:** (rs-school): Angelina Zhur (@zhuravskayalina)
 * **LinkedIn:**[check](https://www.linkedin.com/in/anhelinazhuravskaya)
