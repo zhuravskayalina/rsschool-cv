@@ -64,3 +64,34 @@ function moveZeros(array) {
  return [...newArray, ...zeros];
 }
 
+---
+PROJECTS:
+
+Mario game
+
+    This is fully-functional Mario-type side-scroller game with HTML5 canvas and JavaScript. Graduation project from "Web application development with JS" courses.
+
+    code / link
+
+
+---
+
+EDUCATION:
+- IT academy "Web application development with JavaScript", 108 hours (Minsk, 2022);
+- IT academy "Web-site development with HTML, CSS and JavaScript", 116 hours (Minsk, 2021);
+- HTML Academy "Free Frontend" courses (Minsk, 2021);
+- Marketing and economy, Belarussian Technical University (2012 - 2016)
+
+---
+
+LANGUAGES:
+
+Russian, Belarusian: native
+
+English: 
+speaking: B1,
+writing: B2
+
+I used to work with international guests for 5 years so I have a speaking experience.
+
+git
