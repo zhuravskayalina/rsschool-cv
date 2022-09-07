@@ -65,6 +65,8 @@ function moveZeros(array) {
 }
 ```
 
+You can see more code examples by me [here](https://zhuravskayalina.github.io/tasks/)
+
 ---
 ##PROJECTS:
 
