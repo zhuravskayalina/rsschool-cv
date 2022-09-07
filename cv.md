@@ -12,8 +12,8 @@ ___
 * **e-mail:** zhurauskaya.anhelina@gmail.com
 * **telegram**: @anhelinazhurauskaya
 * **discord (rs-school):** Angelina Zhur (@zhuravskayalina)
-* **LinkedIn:** [check](https://www.linkedin.com/in/anhelinazhuravskaya)
-* **CodeWars:** [check](https://www.codewars.com/users/zhuravskayalina)
+* **[LinkedIn](https://www.linkedin.com/in/anhelinazhuravskaya)**
+* **[CodeWars](https://www.codewars.com/users/zhuravskayalina)**
 
 ---
 
