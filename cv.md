@@ -11,7 +11,7 @@ ___
 
 * **e-mail:** zhurauskaya.anhelina@gmail.com
 * **telegram**: @anhelinazhurauskaya
-* **discord:** (rs-school): Angelina Zhur (@zhuravskayalina)
+* **discord: (rs-school):** Angelina Zhur (@zhuravskayalina)
 * **LinkedIn:**[check](https://www.linkedin.com/in/anhelinazhuravskaya)
 * **CodeWars:**[check](https://www.codewars.com/users/zhuravskayalina)
 
@@ -69,7 +69,7 @@ function moveZeros(array) {
 You can see more code examples by me [here](https://zhuravskayalina.github.io/tasks/)
 
 ---
-##PROJECTS:
+## PROJECTS:
 
 * ### Mario game
 
