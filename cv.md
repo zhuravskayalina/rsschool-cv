@@ -91,9 +91,9 @@ You can see more code examples by me [here](https://zhuravskayalina.github.io/ta
 
 ## LANGUAGES:
 
-Russian, Belarusian: native
+**Russian, Belarusian:** native
 
-English: 
+**English:** 
 speaking: B1,
 writing: B2
 
